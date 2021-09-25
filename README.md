@@ -1,0 +1,5 @@
+- 👋 Hey, I’m @0xsfj
+- 👀 I'm a Javascript Developer working on web3
+- 🌱 I’m currently learning Solidity
+- 💞️ I’m looking for work in web3 projects using React
+- 📫 DM's on twitter open
