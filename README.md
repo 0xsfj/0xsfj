@@ -1,6 +1,4 @@
-I’m Steve, I’m an interface and website developer.
-
-I work on primarly React and React Native Projects.
+I’m Steve, I’m an Frontend Engineer, developing web3 interfaces & websites.
 
 I live in the Northwest USA near Seattle.
 
