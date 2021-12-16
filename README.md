@@ -6,6 +6,8 @@
 
 ⚔️ I am part of the [Solidity Guild](https://www.solidityguild.com/) a Collective of web3 crypto developers. (Built the website so if you see a typo let me know!)
 
+🌱 Building [GAIA](https://github.com/gaia-dao/gaia-frontend) a reclamed land reserve currency. 
+
 🙋 I built [Solana Jobs](http://solanajobs.xyz/) a job board build on Solana with all data stored on chain. Posting and paying in 1 transaction. Each job post is 1 sol a month.
 
 😱 [Halloween Horror](https://halloweenhorror.xyz/) is a character driven horror fighting game. Loosely based off the move cabin in the woods. It includes stats, battles, items, and layered art upgrades. It is also currently deployed on Rinkeby with updates daily.
