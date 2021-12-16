@@ -4,7 +4,7 @@
 
 💻 My background is in building out dashboards, websites, and apps in Javascript using React, Nextjs, GraphQL, and Webflow.
 
-⚔️ I am part of the [Solidity Guild](https://www.solidityguild.com/) a Collective of web3 crypto developers.
+⚔️ I am part of the [Solidity Guild](https://www.solidityguild.com/) a Collective of web3 crypto developers. (Built the website so if you see a typo let me know!)
 
 🙋 I built [Solana Jobs](http://solanajobs.xyz/) a job board build on Solana with all data stored on chain. Posting and paying in 1 transaction. Each job post is 1 sol a month.
 
